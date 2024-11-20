@@ -9,30 +9,30 @@ Soy **Iris Hidalgo**, **Desarrolladora Backend Junior** con experiencia en **C#*
 
 ### 🛠️ Tecnologías y herramientas  
 - **Lenguajes:**   
-![C#](https://img.shields.io/badge/-C%23-blue?style=flat&logo=c-sharp)  
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)  
+![C#](https://img.shields.io/badge/-C%23-blue?style=flat&logo=c-sharp) 
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java) 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  
 
 - **Bases de Datos:**  
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=sql)  
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle)  
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)  
-![MariaDB](https://img.shields.io/badge/-MariaDB-003B57?style=flat&logo=mariadb)  
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=sql) 
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle) 
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb) 
+![MariaDB](https://img.shields.io/badge/-MariaDB-003B57?style=flat&logo=mariadb) 
 ![pgAdmin](https://img.shields.io/badge/-pgAdmin-black?style=flat&logo=pgadmin)  
 
 - **Desarrollo Web:**  
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)  
-![XML](https://img.shields.io/badge/-XML-lightgrey?style=flat&logo=xml)  
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3) 
+![XML](https://img.shields.io/badge/-XML-lightgrey?style=flat&logo=xml) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
 
 - **Otros:**  
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)  
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode)  
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio)  
-![NetBeans](https://img.shields.io/badge/-NetBeans-006B3F?style=flat&logo=netbeans)  
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode) 
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio) 
+![NetBeans](https://img.shields.io/badge/-NetBeans-006B3F?style=flat&logo=netbeans) 
 ![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-13B8C9?style=flat&logo=cisco)  
 
 

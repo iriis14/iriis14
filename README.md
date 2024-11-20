@@ -1,7 +1,7 @@
 ## ¡Hola! 👋  
 
 ### 👩‍💻 Sobre mí  
-Soy **Iris Hidalgo**, una apasionada **Desarrolladora Backend Junior** con experiencia en **C#** y **Java**. Disfruto desarrollando sistemas eficientes y robustos, con un enfoque en bases de datos y mejora continua. Mi motivación, capacidad para trabajar en equipo y amor por aprender nuevas tecnologías me impulsan a superar desafíos y contribuir a proyectos innovadores.  
+Soy **Iris Hidalgo**, **Desarrolladora Backend Junior** con experiencia en **C#** y **Java**, apasionada por las bases de datos y siempre en busca de nuevos retos para seguir aprendiendo y mejorar mis habilidades.  
 
 💻 Me apasiona trabajar con bases de datos y optimizar su rendimiento.  
 🌱 En constante aprendizaje y crecimiento.  

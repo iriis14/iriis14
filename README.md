@@ -38,6 +38,6 @@ Soy **Iris Hidalgo**, **Desarrolladora Backend Junior** con experiencia en **C#*
 
 ### 📫 ¿Cómo contactarme?  
 - 📧 Email: [irishipa@gmail.com](mailto:irishipa@gmail.com)  
-- 💼 LinkedIn: [Perfil de LinkedIn](#https://www.linkedin.com/in/iris-hidalgo-palomino-a90610291)  
+- 💼 LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/iris-hidalgo-palomino-a90610291)
 
 ### ⚡ ¡Construyamos algo increíble juntos!  

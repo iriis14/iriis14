@@ -28,11 +28,12 @@ Soy **Iris Hidalgo**, **Desarrolladora Backend Junior** con experiencia en **C#*
 ![XML](https://img.shields.io/badge/-XML-darkgrey?style=flat&logo=xml) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-darkgoldenrod?style=flat&logo=javascript)  
 
-- **Otros:**  
-![Linux](https://img.shields.io/badge/-Linux-darkgreen?style=flat&logo=linux) 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-darkblue?style=flat&logo=visualstudiocode) 
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-darkgreen?style=flat&logo=androidstudio) 
+- **Otros:**
+![Microsoft Visual Studio](https://img.shields.io/badge/-Visual%20Studio-darkred?style=flat&logo=visualstudio)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-darkgreen?style=flat&logo=androidstudio)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-darkblue?style=flat&logo=visualstudiocode)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-darkgreen?style=flat&logo=netbeans) 
+![Linux](https://img.shields.io/badge/-Linux-darkgreen?style=flat&logo=linux) 
 ![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-darkblue?style=flat&logo=cisco)  
 
 ### 📫 ¿Cómo contactarme?  

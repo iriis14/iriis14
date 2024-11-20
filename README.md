@@ -1,16 +1,20 @@
-## Hi there 👋
+## ¡Hola! 👋  
 
-<!--
-**iriis14/iriis14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Sobre mí  
+Soy **Iris Hidalgo**, una apasionada **Desarrolladora Backend Junior** con experiencia en **C#** y **Java**. Disfruto desarrollando sistemas eficientes y robustos, con un enfoque en bases de datos y mejora continua. Mi motivación, capacidad para trabajar en equipo y amor por aprender nuevas tecnologías me impulsan a superar desafíos y contribuir a proyectos innovadores.  
 
-Here are some ideas to get you started:
+💻 Me apasiona trabajar con bases de datos y optimizar su rendimiento.  
+🌱 En constante aprendizaje y crecimiento.  
+🚀 Lista para enfrentar nuevos retos y colaborar en proyectos innovadores.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y herramientas  
+- **Lenguajes:** C#, Java, Python  
+- **Bases de datos:** Oracle, MySQL, PostgreSQL, MongoDB, MariaDB, pgAdmin  
+- **Desarrollo web:** HTML, CSS, XML  
+- **Otros:** Visual Studio Code, Android Studio, NetBeans, Packet Tracer, Linux  
+
+### 📫 ¿Cómo contactarme?  
+- 📧 Email: [irishipa@gmail.com](mailto:irishipa@gmail.com)  
+- 💼 LinkedIn: [Perfil de LinkedIn](#https://www.linkedin.com/in/iris-hidalgo-palomino-a90610291)  
+
+### ⚡ ¡Construyamos algo increíble juntos!  

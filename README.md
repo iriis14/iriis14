@@ -1,7 +1,7 @@
-# ¡Hola! 👋  
+# ¡Hola! Soy Iris Hidalgo 👋  
 
 ### 👩‍💻 Sobre mí  
-Soy **Iris Hidalgo**, **Desarrolladora Backend Junior** con experiencia en C# y Java. Me considero adaptable a nuevas tecnologías y entornos, siempre con ganas de aprender. Soy proactiva y me encanta colaborar en equipo para lograr objetivos comunes y contribuir al éxito de los proyectos.
+Soy **Desarrolladora Backend Junior** con experiencia en C# y Java. Me considero adaptable a nuevas tecnologías y entornos, siempre con ganas de aprender. Soy proactiva y me encanta colaborar en equipo para lograr objetivos comunes y contribuir al éxito de los proyectos.
 
 ![Java Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 

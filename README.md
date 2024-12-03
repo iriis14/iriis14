@@ -43,7 +43,7 @@ Soy **Iris Hidalgo**, **Desarrolladora Backend Junior** con experiencia en C# y 
 - 💼 LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/iris-hidalgo-palomino-a90610291)  
 
 ### 📊 Estadísticas  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNombreDeUsuario&layout=compact&theme=dark)  
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&theme=dark)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=iriis14&layout=compact&theme=dark)  
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=iriis14&show_icons=true&theme=dark)  
 
 ### ⚡ ¡Construyamos algo increíble juntos!  
